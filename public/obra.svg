@@ -1,0 +1,64 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 320 240"
+  role="img"
+  aria-label="Ilustração de uma obra com guindaste, tijolos e cone de sinalização"
+>
+  <!-- Chão -->
+  <rect x="0" y="210" width="320" height="30" fill="#8d6e63" />
+
+  <!-- Guindaste: torre -->
+  <rect x="60" y="40" width="14" height="170" fill="#f9a825" />
+  <g stroke="#c17900" stroke-width="2">
+    <line x1="60" y1="60" x2="74" y2="80" />
+    <line x1="74" y1="80" x2="60" y2="100" />
+    <line x1="60" y1="100" x2="74" y2="120" />
+    <line x1="74" y1="120" x2="60" y2="140" />
+    <line x1="60" y1="140" x2="74" y2="160" />
+    <line x1="74" y1="160" x2="60" y2="180" />
+    <line x1="60" y1="180" x2="74" y2="200" />
+  </g>
+  <!-- Guindaste: braço -->
+  <rect x="30" y="34" width="210" height="10" fill="#f9a825" />
+  <rect x="30" y="44" width="20" height="16" fill="#555" />
+  <!-- Cabo e bloco suspenso -->
+  <line x1="200" y1="44" x2="200" y2="100" stroke="#333" stroke-width="2" />
+  <rect x="186" y="100" width="28" height="16" fill="#c62828" stroke="#7f0000" />
+
+  <!-- Parede de tijolos -->
+  <g fill="#d84315" stroke="#7f2704" stroke-width="1.5">
+    <rect x="150" y="190" width="30" height="20" />
+    <rect x="180" y="190" width="30" height="20" />
+    <rect x="210" y="190" width="30" height="20" />
+    <rect x="165" y="170" width="30" height="20" />
+    <rect x="195" y="170" width="30" height="20" />
+    <rect x="180" y="150" width="30" height="20" />
+  </g>
+
+  <!-- Cone de sinalização -->
+  <polygon points="270,150 256,210 284,210" fill="#ff6f00" />
+  <polygon points="265,170 275,170 278,182 262,182" fill="#fff" />
+  <rect x="250" y="206" width="40" height="6" fill="#e65100" />
+
+  <!-- Faixa de atenção -->
+  <rect x="0" y="222" width="320" height="10" fill="#fdd835" />
+  <g fill="#222">
+    <polygon points="0,222 10,222 0,232" />
+    <polygon points="20,222 30,222 20,232 10,232" />
+    <polygon points="40,222 50,222 40,232 30,232" />
+    <polygon points="60,222 70,222 60,232 50,232" />
+    <polygon points="80,222 90,222 80,232 70,232" />
+    <polygon points="100,222 110,222 100,232 90,232" />
+    <polygon points="120,222 130,222 120,232 110,232" />
+    <polygon points="140,222 150,222 140,232 130,232" />
+    <polygon points="160,222 170,222 160,232 150,232" />
+    <polygon points="180,222 190,222 180,232 170,232" />
+    <polygon points="200,222 210,222 200,232 190,232" />
+    <polygon points="220,222 230,222 220,232 210,232" />
+    <polygon points="240,222 250,222 240,232 230,232" />
+    <polygon points="260,222 270,222 260,232 250,232" />
+    <polygon points="280,222 290,222 280,232 270,232" />
+    <polygon points="300,222 310,222 300,232 290,232" />
+    <polygon points="320,222 320,232 310,232" />
+  </g>
+</svg>
