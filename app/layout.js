@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Página em construção",
+  title: "Em Construção | TabNews",
 };
 
 export default function RootLayout({ children }) {

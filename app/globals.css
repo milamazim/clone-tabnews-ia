@@ -30,3 +30,19 @@ h1 {
   font-size: 1.75rem;
   font-weight: 600;
 }
+
+.description {
+  max-width: 40rem;
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+
+.total {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+main a {
+  color: #0969da;
+  font-weight: 600;
+}
